@@ -3,7 +3,17 @@ entries:
   helm-homelab-ai:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-15T15:38:24.895795739+03:00"
+    created: "2025-11-15T16:12:24.420972325+03:00"
+    description: A Helm chart for Kubernetes
+    digest: c1ba67b760765740e349ab7d1fe20842349bfe0ddbd1f2797de292a8c7e4b2b5
+    name: helm-homelab-ai
+    type: application
+    urls:
+    - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-15T16:12:24.419979483+03:00"
     description: A Helm chart for Kubernetes
     digest: 51d5829166cca3644afda43651992aaeb5cdcd7a7cf62f7081e5aed750c6d6de
     name: helm-homelab-ai
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-15T15:38:24.895299016+03:00"
+generated: "2025-11-15T16:12:24.419456131+03:00"
