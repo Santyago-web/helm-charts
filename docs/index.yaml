@@ -3,13 +3,13 @@ entries:
   helm-homelab-ai:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T22:30:09.319283137+03:00"
+    created: "2025-11-17T11:17:38.147323681+03:00"
     dependencies:
     - name: longhorn
       repository: https://charts.longhorn.io
       version: 1.10.1
     description: A Helm chart for Kubernetes
-    digest: f3f09473a79f12f3202b54c10e208b760f92abf6ace49c733338896ac8fbee3b
+    digest: d47905e7ffd3999ba57663f134c16f5f0a62f21930dbdfcc14af164e08e8bb99
     name: helm-homelab-ai
     type: application
     urls:
@@ -17,7 +17,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T22:30:09.31564254+03:00"
+    created: "2025-11-17T11:17:38.144299351+03:00"
     description: A Helm chart for Kubernetes
     digest: ebeeea87fbdbfb9be81ef615a6b74277a350634e7d9a593094caa6bdf5bf4056
     name: helm-homelab-ai
@@ -27,7 +27,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T22:30:09.315236808+03:00"
+    created: "2025-11-17T11:17:38.143885444+03:00"
     description: A Helm chart for Kubernetes
     digest: 00d744ae25648d5a24e7b2dbdd6f98cfa3103a9e1e3d57ced1cd47266f36ce8f
     name: helm-homelab-ai
@@ -37,7 +37,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T22:30:09.314856513+03:00"
+    created: "2025-11-17T11:17:38.143042611+03:00"
     description: A Helm chart for Kubernetes
     digest: c1ba67b760765740e349ab7d1fe20842349bfe0ddbd1f2797de292a8c7e4b2b5
     name: helm-homelab-ai
@@ -47,7 +47,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-16T22:30:09.314442366+03:00"
+    created: "2025-11-17T11:17:38.142624355+03:00"
     description: A Helm chart for Kubernetes
     digest: 51d5829166cca3644afda43651992aaeb5cdcd7a7cf62f7081e5aed750c6d6de
     name: helm-homelab-ai
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-16T22:30:09.313942066+03:00"
+generated: "2025-11-17T11:17:38.142120068+03:00"
