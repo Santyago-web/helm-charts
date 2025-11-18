@@ -3,7 +3,17 @@ entries:
   helm-homelab-ai:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-17T11:39:32.024403627+03:00"
+    created: "2025-11-18T09:05:56.007741727Z"
+    description: A Helm chart for Kubernetes
+    digest: 0359443ca1d62fa26785f499619477c301938d20592b6d14ec30505603567108
+    name: helm-homelab-ai
+    type: application
+    urls:
+    - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-11-18T09:05:56.007307432Z"
     dependencies:
     - name: longhorn
       repository: https://charts.longhorn.io
@@ -17,7 +27,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-17T11:39:32.021345353+03:00"
+    created: "2025-11-18T09:05:56.003696057Z"
     description: A Helm chart for Kubernetes
     digest: ebeeea87fbdbfb9be81ef615a6b74277a350634e7d9a593094caa6bdf5bf4056
     name: helm-homelab-ai
@@ -27,7 +37,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-17T11:39:32.02093391+03:00"
+    created: "2025-11-18T09:05:56.003160923Z"
     description: A Helm chart for Kubernetes
     digest: 00d744ae25648d5a24e7b2dbdd6f98cfa3103a9e1e3d57ced1cd47266f36ce8f
     name: helm-homelab-ai
@@ -37,7 +47,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-17T11:39:32.020480449+03:00"
+    created: "2025-11-18T09:05:56.002579753Z"
     description: A Helm chart for Kubernetes
     digest: c1ba67b760765740e349ab7d1fe20842349bfe0ddbd1f2797de292a8c7e4b2b5
     name: helm-homelab-ai
@@ -47,7 +57,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-17T11:39:32.020044861+03:00"
+    created: "2025-11-18T09:05:56.001953608Z"
     description: A Helm chart for Kubernetes
     digest: 51d5829166cca3644afda43651992aaeb5cdcd7a7cf62f7081e5aed750c6d6de
     name: helm-homelab-ai
@@ -55,4 +65,4 @@ entries:
     urls:
     - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-17T11:39:32.019037188+03:00"
+generated: "2025-11-18T09:05:56.000833327Z"
