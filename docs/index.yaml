@@ -3,9 +3,9 @@ entries:
   helm-homelab-ai:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.92754167Z"
+    created: "2025-11-18T09:59:16.893613623Z"
     description: A Helm chart for Kubernetes
-    digest: 77bee452194886138ab2a1d205a68b86a9e824404afafb57bcac4223e02342e6
+    digest: c3bc6ff4c78003a768a4de2d49dfbedcee5044fd92a053b3f89a18f2ace8ef73
     name: helm-homelab-ai
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.927230126Z"
+    created: "2025-11-18T09:59:16.893296709Z"
     dependencies:
     - name: longhorn
       repository: https://charts.longhorn.io
@@ -27,7 +27,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.923323317Z"
+    created: "2025-11-18T09:59:16.889585407Z"
     description: A Helm chart for Kubernetes
     digest: ebeeea87fbdbfb9be81ef615a6b74277a350634e7d9a593094caa6bdf5bf4056
     name: helm-homelab-ai
@@ -37,7 +37,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.922941731Z"
+    created: "2025-11-18T09:59:16.889173374Z"
     description: A Helm chart for Kubernetes
     digest: 00d744ae25648d5a24e7b2dbdd6f98cfa3103a9e1e3d57ced1cd47266f36ce8f
     name: helm-homelab-ai
@@ -47,7 +47,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.922553483Z"
+    created: "2025-11-18T09:59:16.888786207Z"
     description: A Helm chart for Kubernetes
     digest: c1ba67b760765740e349ab7d1fe20842349bfe0ddbd1f2797de292a8c7e4b2b5
     name: helm-homelab-ai
@@ -57,7 +57,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-18T09:55:26.922132252Z"
+    created: "2025-11-18T09:59:16.888374836Z"
     description: A Helm chart for Kubernetes
     digest: 51d5829166cca3644afda43651992aaeb5cdcd7a7cf62f7081e5aed750c6d6de
     name: helm-homelab-ai
@@ -65,4 +65,4 @@ entries:
     urls:
     - https://Santyago-web.github.io/helm-charts/helm-homelab-ai-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-18T09:55:26.921598221Z"
+generated: "2025-11-18T09:59:16.887863296Z"
